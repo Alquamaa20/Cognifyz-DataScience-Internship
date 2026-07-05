@@ -117,42 +117,28 @@ Cognifyz_DataScience_Internship/
 ## 📷 Project Screenshots
 
 ### Restaurant Locations
-![Restaurant Locations](Images/restaurant_locations.png)
-
----
+![Restaurant Locations](Images/restaurant_locations.png.png)
 
 ### Geospatial Analysis
-![Geospatial Analysis](Images/geospatial_analysis.png)
-
----
+![Geospatial Analysis](Images/geospatial_analysis.png.png)
 
 ### Rating vs Location Analysis
-![Geospatial Analysis 2](Images/geospatial_analysis2.png)
-
----
+![Geospatial Analysis 2](Images/geospatial_analysis2.png.png)
 
 ### Table Booking Percentage
-![Table Booking Percentage](Images/table_booking_percentage.png)
-
----
+![Table Booking Percentage](Images/table_booking_percentage.png.png)
 
 ### Average Rating by Table Booking
-![Average Rating by Table Booking](Images/average_rating_table_booking.png)
-
----
+![Average Rating by Table Booking](Images/average_rating_table_booking.png.png)
 
 ### Online Delivery Across Price Range
-![Online Delivery](Images/online_delivery_price_range.png)
-
----
+![Online Delivery](Images/online_delivery_price_range.png.png)
 
 ### Average Rating by Price Range
-![Average Rating by Price Range](Images/average_rating_price_range.png)
-
----
+![Average Rating by Price Range](Images/average_rating_price_range.png.png)
 
 ### Feature Engineering
-![Feature Engineering](Images/feature_engineering.png)
+![Feature Engineering](Images/feature_engineering.png.png)
 
 ---
 
